@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React,Javs, Java Spring Boot, AWS, and Azure**
 
-- 👨‍💻 All of my projects are available at [https://lnkd.in/gxYNiwnD](https://lnkd.in/gxYNiwnD)
+- 👨‍💻 All of my projects are available at https://wathsu4.github.io/My_Portfolio/
 
 - 💬 Ask me about **React, Java**
 
